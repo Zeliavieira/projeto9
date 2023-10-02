@@ -1,0 +1,13 @@
+
+.carrosel{
+    padding: 0;
+    }
+    
+    .carousel-inner{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    }
+    .carrosel{
+        height: 100vh;
+    }
